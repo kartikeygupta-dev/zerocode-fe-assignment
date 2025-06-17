@@ -1,0 +1,49 @@
+/* form.css */
+
+body {
+  background: linear-gradient(120deg, #e0f7fa, #f3e5f5);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin:10% auto;
+}
+
+.container {
+  max-width: 400px;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+ 
+}
+
+h2 {
+  color: #6a1b9a;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+button.btn-primary {
+  background-color: #6a1b9a;
+  border: none;
+}
+
+button.btn-primary:hover {
+  background-color: #4a148c;
+}
+
+button.btn-success {
+  background-color: #2e7d32;
+  border: none;
+}
+
+button.btn-success:hover {
+  background-color: #1b5e20;
+}
+
+a {
+  color: #6a1b9a;
+}
+
+a:hover {
+  text-decoration: underline;
+}
