@@ -55,8 +55,4 @@ zerocode-fe-assignment/
 3. Register or login.
 4. Start chatting with the bot on the chat page.
 
-## 🌐 Live Demo
 
-👉 [Deployed Link](https://chatbotprojectbykartikey.netlify.app/)
-
----
