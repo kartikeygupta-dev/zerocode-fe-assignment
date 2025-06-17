@@ -57,6 +57,6 @@ zerocode-fe-assignment/
 
 ## 🌐 Live Demo
 
-👉 [Deployed Link]()
+👉 [Deployed Link](https://chatbotprojectbykartikey.netlify.app/)
 
 ---
